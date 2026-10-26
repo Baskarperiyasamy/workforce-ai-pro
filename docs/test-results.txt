@@ -1,0 +1,5 @@
+tests/test_api.py::test_auth_flow PASSED                                 [ 25%]
+tests/test_api.py::test_rbac_and_employee_crud PASSED                    [ 50%]
+tests/test_api.py::test_attendance_triggers_prediction PASSED            [ 75%]
+tests/test_api.py::test_leave_payroll_ai PASSED                          [100%]
+======================== 4 passed, 3 warnings in 7.72s =========================
